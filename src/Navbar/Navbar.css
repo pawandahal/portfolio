@@ -1,0 +1,40 @@
+.containerr{
+   box-sizing: border-box;
+   z-index:1;
+   position:relative;
+   flex-wrap:nowrap;
+   background-color:black; 
+   margin-bottom:10px;
+   padding-top:50px;
+   height:20vh
+}
+h1{
+  margin-left:20px;
+  font-size: medium;
+  font-style: italic;
+  font-weight: bold;
+  color:white;
+  list-style: none;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    margin-top:-50px;
+    height:20vh;
+  }
+  nav > ul {
+    list-style: none;
+    margin-top:20px;
+    margin-right:200px;
+  }
+  ul > li {
+    display: inline;
+    margin-left: 20px;
+  }
+  
+  li > a {
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    padding:20px;
+  }

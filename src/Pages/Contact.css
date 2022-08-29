@@ -1,0 +1,47 @@
+.contact{
+ 
+}
+.number{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    width:20vw;
+    height:50vh;
+    margin-left:560px;
+    margin-top:70px;
+    background-color:white;
+    padding-left:50px;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    padding:20px
+}
+p{
+    margin-left:20px;
+    margin-bottom:20px
+}
+.socialMedia{
+text-align:center;
+margin-top:20px;
+margin-left:90px
+}
+.fb{
+    margin-left:20px;
+    margin-right:20px
+}
+
+.inst{
+    margin-left:20px;
+    margin-right:20px 
+}
+.tw{
+    margin-left:20px;
+    margin-right:20px
+}
+.link{
+    margin-left:20px;
+    margin-right:20px
+}
+.git{
+    margin-left:20px;
+    margin-right:20px
+}

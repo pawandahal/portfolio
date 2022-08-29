@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: "MyWebFont";
+    src: url("https://example.com/webfont.woff") format("woff"),
+    url("https://example.com/webfont.ttf") format("truetype");
+    }
+.system{
+    position:relative;
+    justify-content: center;
+    text-align:center;
+    background-color:skyblue;
+    width:42vw;
+    font-family: "MyWebFont", sans-serif;
+    height:134vh;
+    margin-top:-10px;
+    margin-left:450px;box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+}
+.education{
+  margin-left:-20px;
+  font-weight:bold;
+  text-align:center;
+  margin-left:2px;
+
+}
+.one{
+    background-color:rgb(50, 43, 43);
+    color:white;
+    height:40vh;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    position:relative;
+    margin-top:20px;
+    margin-left:-70px;
+    margin-right:30px;
+    border-radius:20px;
+    width:30vw
+}
+
+h2{
+  padding:40px;
+  
+}
+.two{
+    background-color:rgb(50, 43, 43);
+    color:white;
+    height:40vh;
+    
+    position:relative;
+    margin-top:20px;
+    margin-left:230px;
+    margin-right:30px;
+    border-radius:20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width:30vw
+}
+h3{
+    padding:40px;
+      }
+  h4{
+    padding:40px;
+    }
+.third{
+    background-color:rgb(50, 43, 43);
+    color:white;
+    height:40vh;
+    position:relative;
+    margin-top:20px;
+    margin-left:-90px;
+    margin-right:30px;
+    border-radius:20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width:30vw
+}
