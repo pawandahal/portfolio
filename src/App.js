@@ -10,7 +10,6 @@ import Navbar from './Navbar/Navbar'
 const App = () => {
   return (
     <div>
-    
       <Router>
       <Navbar/>
         <Routes>
